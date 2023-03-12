@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+.conteineri{
+    width:440px;
+    height:500px;
+    border: 1px solid #dcdcdc;
+    margin:0 auto;
+    margin-top:150px;
+    background-color:whitesmoke;
+
+}
+
+img{
+padding-left: 155px;
+padding-top:70px;
+}
+
+h3{
+    padding-left: 155px;
+}
+
+p{
+    text-align: center;
+}
